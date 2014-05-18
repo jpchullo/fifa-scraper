@@ -1,10 +1,7 @@
-fifa-scraper
-============
-
-#PHP FIFA-SCRAPER TO JSON CONVERT
+#php fifa-scraper to json
 breve demostracion de como programar un simple spider en tiempo real de la fifa
 
-#USAGE
+#usage
 modo de uso del script online
 ```php
 <?php
