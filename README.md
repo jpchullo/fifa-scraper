@@ -19,9 +19,9 @@ modo de uso del script online
 ```
 
 
-dudas o consultas : jpmaster.net@gmail.com
+dudas o consultas : `jpmaster.net@gmail.com`
 
-derechos reservados : https:cocolabs.com
+derechos reservados : https://cocolabs.com
 
 
 fifa scrapper to json PHP
