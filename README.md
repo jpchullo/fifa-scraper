@@ -16,5 +16,6 @@ modo de uso del script online
         die($e->getMessage());
     }
 ```
-
+dudas o consultas : jpmaster.net@gmail.com
+derechos reservados : https:cocolabs.com
 fifa scrapper to json PHP
