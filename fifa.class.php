@@ -7,7 +7,12 @@ class fifa
 
 	public function __construct()
 	{
-		print $this->getData();
+		// print $this->getData();
+	}
+
+	public function init()
+	{
+		return $this->getData();
 	}
 
 	private function getData()
@@ -59,7 +64,7 @@ class fifa
 			// print '<hr>';
 		}
 
-		print json_encode(array('fase'=>1, 'tabla'=>$tabla));
+		return json_encode(array('fase'=>1, 'tabla'=>$tabla));
 	}
 
 	private function getHtml($lnk)
@@ -67,7 +72,3 @@ class fifa
 		return file_get_contents($lnk);
 	}
 }
-
-$a = new fifa;
-
-$a;
